@@ -1,2 +1,2 @@
 Anyone can contribute
-No style guide
+No style guide for this.
